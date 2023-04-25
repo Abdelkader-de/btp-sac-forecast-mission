@@ -13,15 +13,11 @@ You can find this scenario as a mission in [SAP Discovery Center](https://discov
 
 ## Business Scenario
 
-As a sample scenario, Jane a sales executive of ACME Corporation regularly meets different customers. She needs access to the latest customer information on the go. She needs a simplified web application, which can run on a portable device like smartphone or a tablet.
+This scenario meants to guide Business Analysts without deep statistical knowledge through the steps to perform a risk analysis forecast for a food delivery service with several vendors, delivering food to the company's customers.
 
-ACME Corporation implements the application as an SAP S/4HANA extension on SAP Business Technology Platform (SAP BTP). This application is created with SAP Build Apps, a no-code user interface development tool.
+When service delivery issues arise, such as late deliveries, or goods delivered in unacceptable conditions to customers, risk manager John calculates the risk cost for each vendor, using a risk management application built on SAP BTP.
 
-This scenario covers:
-
-* Building application with SAP Build Apps
-* Set up connectivity between SAP BTP and SAP S/4HANA Cloud or SAP S/4HANA on-premise
-* Deploying the application on SAP BTP, Cloud Foundry environment
+![Business Scenario](./discover/images/Business-scenario.jpg)
 
 ## Solution Architecture
 
