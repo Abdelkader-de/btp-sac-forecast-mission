@@ -1,6 +1,6 @@
 # Integrate SAC Analytics Forecast with BTP Extension Application
 
-This scenario is primarily intended to demonstrate how to integrate BTP extensions application with analytics capabilities like reports, interactive dashboards, and visuals.
+This scenario is primarily intended to demonstrate how to integrate BTP extension application with analytics capabilities like reports, interactive dashboards, and visuals.
 
 By the end of this scenario, you'll be able to :
 
