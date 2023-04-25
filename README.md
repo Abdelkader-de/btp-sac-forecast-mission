@@ -1,9 +1,15 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/btp-s4hana-nocode-extension)](https://api.reuse.software/info/github.com/SAP-samples/btp-s4hana-nocode-extension)
-# Use SAP Build Apps to Build Side-by-Side UI Extensions for SAP S/4HANA
+# Integrate SAC Analytics Forecast with BTP Extension Application
 
-The main focus of this mission is to develop a custom UI application, which consumes an OData service from an SAP S/4HANA system.
+This scenario is primarily intended to demonstrate how to integrate BTP extensions application with analytics capabilities like reports, interactive dashboards, and visuals.
 
-We will create a simple custom UI application using no-code tool **SAP Build Apps**, push the code to the HTML5 repository and show different options on how to expose this application - as a stand-alone or with the different SAP Build Work Zone environments.
+By the end of this scenario, you'll be able to :
+
+* Customize  an extension application on BTP  using calculation view  within SAP Business Application Studio.
+* Set up a Live Data Connection from SAP Analytics Cloud to SAP HANA Cloud with SSO (Single Sign On) in a few steps to access application data in real time without   
+  having to set up the SAP HANA Analytics Adapter
+* Use SAP Analytics Cloud as One Stop tool to build,  analyze and forecast business data
+* Use one central point to access your application and analytics from SAP Build Work Zone, standard edition with rendering on different devices.
 
 You can find this scenario as a mission in [SAP Discovery Center](https://discovery-center.cloud.sap/missiondetail/4024/4228/).
 
