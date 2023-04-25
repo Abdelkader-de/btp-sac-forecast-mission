@@ -21,13 +21,7 @@ When service delivery issues arise, such as late deliveries, or goods delivered 
 
 ## Solution Architecture
 
-**SAP S/4HANA Cloud**
-
- ![Solution Architecture](./discover/images/ScenarioArchitecture.png)
-
-**SAP S/4HANA on-premise**
-
- ![Solution Architecture](./discover/images/s4hop.png)
+ ![Solution Architecture](./discover/images/SolutionArchitecture.jpg)
 
 ## Discover
 
