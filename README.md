@@ -45,16 +45,14 @@ Let's go over the steps required to build this scenario:
  
 ## Discover
 
-* [The Mission Story](discover/business-story.md)
-* [Learn the Basics of SAP BTP](https://github.com/SAP-samples/cloud-extension-html5-sample/blob/mission/mission/discover/BTP.md)
-* [Learn About SAP S/4HANA](https://github.com/SAP-samples/cloud-extension-html5-sample/blob/mission/mission/discover/S4H.md)
-* [Learn About SAP S/4HANA Cloud](./discover/S4HC.md)
-* [Learn About HTML5 Applications](https://github.com/SAP-samples/cloud-extension-html5-sample/blob/mission/mission/discover/HTML5.md)
-* [Learn About SAP Build Apps](./discover/AppGyver.md)
-* [Learn About SAP Cloud Identity Services](https://github.com/SAP-samples/cloud-extension-html5-sample/blob/mission/mission/discover/IAS.md)
-* [Learn About SAP Work Zone](https://github.com/SAP-samples/cloud-extension-html5-sample/blob/mission/mission/discover/Launchpad.md)
-
-
+1. [Learn how to use missions and project boards in SAP Discovery Center](../discover/how-to-use-missions)
+2. [Learn about the goal and outcome of the mission](../discover/goal-and-outcome-of-mission)
+3. [Learn the basics of SAP BTP](../discover/sap-btp-basics)
+4. [Discover the Cloud Application Programming Model (CAP)](../discover/discover-cap)
+5. [Learn About SAP Work Zone](https://github.com/SAP-samples/cloud-extension-html5-sample/blob/mission/mission/discover/Launchpad.md)
+6. [Discover the Cloud Application Programming Model (CAP)](../discover/discover-cap)
+7. [Discover SAPUI5, SAP Fiori Elements and SAP Business Application Studio](../discover/ui5-fiori-elements-business-app-studio)
+8. [Learn About SAP Analytics Cloud](https://github.com/SAP-samples/cloud-extension-html5-sample/blob/mission/mission/discover/S4H.md)
 
 ## Landscape Setup for SAP BTP and SAP S/4HANA Cloud
 
