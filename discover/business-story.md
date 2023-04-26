@@ -12,8 +12,6 @@ By the end of this scenario, you'll be able to :
 ![Scenario Overview](./discover/images/scenario-overview.jpg)
 
 
-You can find this scenario as a mission in [SAP Discovery Center](https://discovery-center.cloud.sap/missiondetail/4024/4228/).
-
 ## Business Scenario
 
 This scenario meants to guide Business Analysts without deep statistical knowledge through the steps to perform a risk analysis forecast for a food delivery service with several vendors, delivering food to the company's customers.
