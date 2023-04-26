@@ -25,6 +25,8 @@ When service delivery issues arise, such as late deliveries, or goods delivered 
 ## Solution Architecture
 
  ![Solution Architecture](./discover/images/SolutionArchitecture.jpg)
+ 
+ If you don't have an SAP S/4HANA system, you have the option to choose a mock server instead.
 
 ## Discover
 
