@@ -9,7 +9,7 @@ By the end of this scenario, you'll be able to :
 * Use SAP Analytics Cloud as One Stop tool to build, analyze and forecast business data
 * Use one central point to access your application and analytics from SAP Build Work Zone, standard edition with rendering on different devices.
 
-![Scenario Overview](./discover/images/scenario-overview.jpg)
+![Scenario Overview](./images/scenario-overview.jpg)
 
 
 ## Business Scenario
@@ -18,8 +18,8 @@ This scenario meants to guide Business Analysts without deep statistical knowled
 
 When service delivery issues arise, such as late deliveries, or goods delivered in unacceptable conditions to customers, risk manager John calculates the risk cost for each vendor, using a risk management application built on SAP BTP.
 
-![Business Scenario](./discover/images/Business-scenario.jpg)
+![Business Scenario](./images/Business-scenario.jpg)
 
 ## Solution Architecture
 
- ![Solution Architecture](./discover/images/SolutionArchitecture.jpg)
+ ![Solution Architecture](./images/SolutionArchitecture.jpg)
