@@ -45,7 +45,7 @@ Let's go over the steps required to build this scenario:
  
 ## Discover
 
-1. [Learn how to use missions and project boards in SAP Discovery Center](https://github.com/Abdelkader-de/btp-sac-forecast-mission/blob/main/discover/how-to-use-missions.md)
+1. [Learn how to use missions and project boards in SAP Discovery Center]((../discover/how-to-use-missions))
 2. [Learn about the goal and outcome of the mission](../discover/goal-and-outcome-of-mission)
 3. [Learn the basics of SAP BTP](../discover/sap-btp-basics)
 4. [Discover the Cloud Application Programming Model (CAP)](../discover/discover-cap)
