@@ -26,8 +26,23 @@ When service delivery issues arise, such as late deliveries, or goods delivered 
 
  ![Solution Architecture](./discover/images/SolutionArchitecture.jpg)
  
- If you don't have an SAP S/4HANA system, you have the option to choose a mock server instead.
+Let's go over the steps required to build this scenario:
 
+* Step 1: With the help of system admin, we connect to backend S/4HANA Cloud to fetch business partner data, or use a mock-server application built on CAP.
+
+* Step 2: professional developer installs and customizes the risk management application using SAP Business Application Studio, by adding analytics artifact modules like calculation views.
+
+* Step 3: Professional developer will deploy the app to the Cloud Foundry runtime.
+
+* Step 4: With the help of SAP Analytics Cloud system owner, he will set up an SSO live connection to SAP HANA Cloud persistence.
+
+* Step 5: Citizen developers can explore data from SAP Hana cloud in real time with dynamic visualizations changing on-the-fly, he can also design interactive analytics dashboards and reports for himself or others.
+
+* Step 6: Citizen developers seamlessly integrate Analytical content dashboard in SAP Fiori launchpad by calling SAC Story URL.
+
+* Step 7:  A business user, in our case, a risk manager, can access the SAP Build Work Zone, standard edition service and open the risk management application along with analytics dashboard.
+ 
+ 
 ## Discover
 
 * [The Mission Story](discover/business-story.md)
