@@ -1,25 +1,27 @@
 # The Mission Story
 
-As a sample scenario, Jane a sales executive of ACME Corporation regularly meets different customers. She needs access to latest customer information on the go. She needs a simplified web application, which can run on a portable device like smartphone or a tablet.
+This scenario is primarily intended to demonstrate how to integrate BTP extension application with analytics capabilities like reports, interactive dashboards, and visuals.
 
-ACME Corporation implements the application as an SAP S/4HANA extension on SAP BTP. This application is created with SAP Build Apps, a no-code user interface development tool.
+By the end of this scenario, you'll be able to :
+
+* Customize  an extension application on BTP  using calculation views  within SAP Business Application Studio.
+* Set up a Live Data Connection from SAP Analytics Cloud to SAP HANA Cloud with SSO (Single Sign On) in a few steps to access application data in real time without  having to set up the SAP HANA Analytics Adapter.
+* Use SAP Analytics Cloud as One Stop tool to build, analyze and forecast business data
+* Use one central point to access your application and analytics from SAP Build Work Zone, standard edition with rendering on different devices.
+
+![Scenario Overview](./discover/images/scenario-overview.jpg)
 
 
-This scenario covers:
+You can find this scenario as a mission in [SAP Discovery Center](https://discovery-center.cloud.sap/missiondetail/4024/4228/).
 
-* Building application with SAP Build Apps
-* Set up connectivity between SAP BTP and SAP S/4HANA Cloud or SAP S/4HANA on-premise 
-* Deploying the application on SAP BTP, Cloud Foundry environment
+## Business Scenario
 
-If you don't have an SAP S/4HANA system, you have the option to choose a mock server instead.
+This scenario meants to guide Business Analysts without deep statistical knowledge through the steps to perform a risk analysis forecast for a food delivery service with several vendors, delivering food to the company's customers.
 
+When service delivery issues arise, such as late deliveries, or goods delivered in unacceptable conditions to customers, risk manager John calculates the risk cost for each vendor, using a risk management application built on SAP BTP.
+
+![Business Scenario](./discover/images/Business-scenario.jpg)
 
 ## Solution Architecture
 
-**SAP S/4HANA Cloud**
-
-   ![Solution Architecture](./images/ScenarioArchitecture.png)
-
-**SAP S/4HANA on-premise**
-
-   ![Solution Architecture](./images/s4hop.png)
+ ![Solution Architecture](./discover/images/SolutionArchitecture.jpg)
