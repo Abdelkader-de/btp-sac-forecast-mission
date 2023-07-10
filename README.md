@@ -46,6 +46,15 @@ Let's go over the steps required to build this scenario:
  
 Let's go over the steps required to build this scenario:
 
+  | Service                                        | Plan             |
+      |------------------------------------------------|------------------|
+      | Cloud Foundry Runtime                          | standard         |   
+      | SAP Build Work zone standard edition           | standard edition |
+      | SAP Business Application Studio                | standard edition |
+      | SAP HANA Cloud                                 | hana             |
+      | SAP Build Work zone standard edition           | standard edition |
+      | Destination service                            | lite             |
+
 * Step 1: With the help of system admin, we connect to backend S/4HANA Cloud to fetch business partner data, or use a mock-server application built on CAP.
 
 * Step 2: professional developer installs and customizes the risk management application using SAP Business Application Studio, by adding analytics artifact modules like calculation views.
