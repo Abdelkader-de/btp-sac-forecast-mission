@@ -43,17 +43,18 @@ Let's go over the steps required to build this scenario:
 6 - Citizen developers seamlessly [integrate Analytical content dashboard in SAP Build Work Zone, standard edition](./documentation/develop/integrate-story-SBWZ) by calling SAC Story URL.
 
 7 - A business user, in our case, a risk manager, can [access the SAP Build Work Zone, standard edition](https://github.com/Kaderde/btp-sac-forecast/tree/main/documentation/develop/integrate-story-SBWZ) service and open the risk management application along with analytics dashboard.
- 
+
+
 Let's go over the steps required to build this scenario:
 
-  | Service                                        | Plan             |
-      |------------------------------------------------|------------------|
-      | Cloud Foundry Runtime                          | standard         |   
-      | SAP Build Work zone standard edition           | standard edition |
-      | SAP Business Application Studio                | standard edition |
-      | SAP HANA Cloud                                 | hana             |
-      | SAP Build Work zone standard edition           | standard edition |
-      | Destination service                            | lite             |
+  | Step                                           | Description      |
+  |------------------------------------------------|------------------|
+  | Cloud Foundry Runtime                          | standard         |   
+  | SAP Build Work zone standard edition           | standard edition |
+  | SAP Business Application Studio                | standard edition |
+  | SAP HANA Cloud                                 | hana             |
+  | SAP Build Work zone standard edition           | standard edition |
+  | Destination service                            | lite             |
 
 * Step 1: With the help of system admin, we connect to backend S/4HANA Cloud to fetch business partner data, or use a mock-server application built on CAP.
 
