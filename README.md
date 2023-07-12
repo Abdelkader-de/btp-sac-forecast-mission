@@ -50,10 +50,10 @@ Let's go over the steps required to build this scenario:
   | Step                                           | Description      |
   |------------------------------------------------|------------------|
   | Step 1: Prepare                                | Make sure prerequisites are fulfilled and all required systems are in place|   
-  | Step 2: Set Up                                 | Setting up and configuring SAP systems and services |
+  | Step 2: Set Up                                 | Set up and configure SAP systems and services |
   | Step 3: Customize                              | Add custom logic to Risk Management application |
-  | Step 4: Set up  a Live Data Connection         | Set up a live data connection between SAP HANA Cloud and SAP Analytics Cloud.             |
-  | Step 5: Develop visual reports                 | Create Bar and Times Series charts reports in SAP Analytics  |
+  | Step 4: Set up  a Live Data Connection         | Set up a Live Data Connection between SAP HANA Cloud and SAP Analytics Cloud|
+  | Step 5: Develop visual reports                 | Create Bar and Times Series charts reports in SAP Analytics|
   | Step 6: Integrate                              | Integrate Analytical reports in SAP Build Work Zone, standard edition             |
 
 * Step 1: With the help of system admin, we connect to backend S/4HANA Cloud to fetch business partner data, or use a mock-server application built on CAP.
