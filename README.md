@@ -49,12 +49,12 @@ Let's go over the steps required to build this scenario:
 
   | Step                                           | Description      |
   |------------------------------------------------|------------------|
-  | Cloud Foundry Runtime                          | standard         |   
-  | SAP Build Work zone standard edition           | standard edition |
-  | SAP Business Application Studio                | standard edition |
-  | SAP HANA Cloud                                 | hana             |
-  | SAP Build Work zone standard edition           | standard edition |
-  | Destination service                            | lite             |
+  | Step 1: Prepare                                | Make sure prerequisites are fulfilled and all required systems are in place|   
+  | Step 2: Design and Deploy Integration Flow           | standard edition |
+  | Step 3: Configure SAP ERP(ECC) System                | standard edition |
+  | Step 4: SAP HANA Cloud                                 | hana             |
+  | Step 5: SAP Build Work zone standard edition           | standard edition |
+  | Step 6: Destination service                            | lite             |
 
 * Step 1: With the help of system admin, we connect to backend S/4HANA Cloud to fetch business partner data, or use a mock-server application built on CAP.
 
